@@ -1,5 +1,9 @@
 Hello
 DevOps Practise
 login work
+<<<<<<< HEAD
 jolly
 Hello
+=======
+
+>>>>>>> f32e9a40373c36d8819f3c206323e5db31187ecf
